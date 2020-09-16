@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.github.kai9026.tess4jstarter.configuration.bootstrap.Tess4jAutoConfiguration
